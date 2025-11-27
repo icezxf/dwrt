@@ -2,10 +2,8 @@
 京东云亚瑟AX1800pro专属固件包  
 
 有何变化？
-  
-  1.源代码切换为openwrt24.10
-  
-  2.重回opkg包管理器
+
+  1.重回opkg包管理器
   
   （部分代码来自Davidtall、VIKINGYFY）
   
