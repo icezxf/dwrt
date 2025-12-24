@@ -36,7 +36,7 @@ jobs:
         CONFIG: [IPQ60XX-WIFI]
 #LiBwrt        
         SOURCE: [LiBwrt/openwrt-6.x]
-        BRANCH: [k6.12-nss]
+        BRANCH: [25.12-nss]
 
 #immortalwrt
         #SOURCE: [VIKINGYFY/immortalwrt]
@@ -71,3 +71,4 @@ jobs:
       WRT_TEST: ${{inputs.TEST}}
 
       CI_NAME: ${{github.workflow}}
+
